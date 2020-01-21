@@ -1,0 +1,18 @@
+.screen1
+{
+    display: flex;
+    background: linear-gradient(to right, #ceda5e, #bd1548);
+    padding: 20px; 
+}
+.screen2
+{
+    display: flex;
+    background: linear-gradient(to right, #9ed1e0, #613ec0);
+    padding: 20px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body
+{
+    background: linear-gradient(to right, #ddebf0, #82db9d);
+    padding: 20px;
+}
